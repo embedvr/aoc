@@ -1,9 +1,9 @@
 # embed's Advent Of Code
 this is a monorepo of every one of my Advent of Code solutions. most if not all of them will be written with TS and Deno. 
 
- - [ ] Day 1
-	 - [ ] Part 1
-	 - [ ] Part 2
+ - [x] [Day 1](https://github.com/embedvr/aoc/tree/main/day1)
+	 - [x] Part 1 (00:05:00)
+	 - [x] Part 2 (00:05:59)
  - [ ] Day 2
 	 - [ ] Part 1
 	 - [ ] Part 2
