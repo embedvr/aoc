@@ -5,8 +5,8 @@ this is a monorepo of every one of my Advent of Code solutions. most if not all 
 	 - [x] Part 1 (00:05:00)
 	 - [x] Part 2 (00:05:59)
  - [x] [Day 2](https://github.com/embedvr/aoc/tree/main/day2)
-	 - [ ] Part 1
-	 - [ ] Part 2
+	 - [x] Part 1 (00:42:21)
+	 - [x] Part 2 (01:23:29)
  - [ ] Day 3
 	 - [ ] Part 1
 	 - [ ] Part 2
