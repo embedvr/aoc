@@ -7,9 +7,9 @@ this is a monorepo of every one of my Advent of Code solutions. most if not all 
  - [x] [Day 2](https://github.com/embedvr/aoc/tree/main/day2)
 	 - [x] Part 1 (00:42:21)
 	 - [x] Part 2 (01:23:29)
- - [ ] Day 3
-	 - [ ] Part 1
-	 - [ ] Part 2
+ - [x] [Day 2](https://github.com/embedvr/aoc/tree/main/day3) (forgot about aoc until 5 minutes after 12 LOL!)
+	 - [x] Part 1 (00:13:54)
+	 - [x] Part 2 (00:21:19)
  - [ ] Day 4
 	 - [ ] Part 1
 	 - [ ] Part 2
