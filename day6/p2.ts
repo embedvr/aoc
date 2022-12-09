@@ -8,7 +8,6 @@ for (let i = 0; i < splitted.length; i++) {
     let ch = splitted.slice(i, i + 14);
     if(ch.length < 14) break;
     console.log(i, ch);
-    // check if all characters in ch are unqiue from eachother
     let unique = true;
     for (let j = 0; j < ch.length; j++) {
         for (let k = j + 1; k < ch.length; k++) {
