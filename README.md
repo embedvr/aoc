@@ -31,9 +31,9 @@ this is a monorepo of every one of my Advent of Code solutions. most if not all 
  - [x] [Day 10](https://github.com/embedvr/aoc/tree/main/day10)
 	 - [x] Part 1 (18:35:18)
 	 - [x] Part 2 (18:40:53)
- - [ ] Day 11
-	 - [ ] Part 1
-	 - [ ] Part 2
+ - [x] [Day 11](https://github.com/embedvr/aoc/tree/main/day11)
+	 - [x] Part 1 (23:34:06)
+	 - [x] Part 2 (23:45:51)
  - [ ] Day 12
 	 - [ ] Part 1
 	 - [ ] Part 2
